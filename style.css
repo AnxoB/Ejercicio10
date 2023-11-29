@@ -1,0 +1,50 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+article{
+    border: 8px #014165 solid;
+    border-radius: 5px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+header nav{
+    display: none;
+}
+img{
+    width: 350px;
+    height: 350px;
+    border-radius: 50%;
+    margin-top: 10px;
+    border: 8px #014165 solid;
+    margin: 0px 10px 0px 10px;
+}
+span{
+    color: #014165;
+    font-family: Arial;
+}
+ul{
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+li{
+    margin: 0px 5px 0px 5px;
+}
+a img{
+    width: 50px;
+    height: 50px;
+    border-radius: 15px;
+    border: 2px #014165 solid;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+p{
+    display: flex;
+    justify-content: center;
+}
