@@ -40,11 +40,11 @@ a img{
     border-radius: 15px;
     border: 2px #014165 solid;
 }
-nav{
+p{
     display: flex;
     justify-content: center;
 }
-p{
+footer{
     display: flex;
     justify-content: center;
 }
